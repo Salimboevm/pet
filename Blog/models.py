@@ -31,7 +31,7 @@ class Post(models.Model):
     title_image = WEBPField(upload_to=image_folder, validators=[validate_image], default='posts/home-bg.webp',
                             null=False, verbose_name="Image")
     slug = models.SlugField(max_length=200, unique=True, null=False)
-    author = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='blog_posts')
+    author = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='postgres')
     description = models.TextField(max_length=1000)
     content = HTMLField()
 

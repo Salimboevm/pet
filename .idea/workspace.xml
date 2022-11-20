@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76a67bd0-38a1-4a5a-90c4-b47fd7f0f68f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Django-Simple-Blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django-Simple-Blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlogPetProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlogPetProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/migrations/0002_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/migrations/0002_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
