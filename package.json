@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "cypress": "^11.1.0",
+    "cypress-django": "github:QuickRelease/cypress-django"
+  }
+}
