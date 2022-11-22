@@ -95,13 +95,14 @@ WSGI_APPLICATION = 'BlogPetProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'blog_post',
+        'NAME': 'post',
         'USER': 'postgres',
         'PASSWORD': 'psql',
         'HOST': 'localhost',
         'PORT': '5432',
     }
 }
+print("sd")
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
 
